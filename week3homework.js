@@ -7,9 +7,6 @@ const pizzaToppings = [
   "pineapple",
 ];
 
-// function greetCustomer() {
-//     console.log = `Welcome to Pizza House, our toppings are ${pizzaToppings}`
-// }
 
 function greetCustomer() {
   const greeting = `Welcome to Pizza House, our toppings are ${pizzaToppings}`;
